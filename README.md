@@ -2,7 +2,14 @@
 
 ## Build Instructions
 
+The code needs pybind11:
+
 ```bash
+git submodule update --init --recursive
+```
+
+```bash
+
 mkdir build
 cd build
 cmake ..
