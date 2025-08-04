@@ -59,7 +59,7 @@ If you use this work in your research, please cite:
 Jun Woo Chung, Huawei Lin, and Weijie Zhao. *Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search*. In SIGIR ’25, Padua, Italy, July 2025. https://doi.org/10.1145/3726302.3730028
 
 BibTeX:
-
+```bash
 @inproceedings{10.1145/3726302.3730028,
   author    = {Chung, Jun Woo and Lin, Huawei and Zhao, Weijie},
   title     = {Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search},
@@ -76,3 +76,4 @@ BibTeX:
   location  = {Padua, Italy},
   series    = {SIGIR '25}
 }
+```
