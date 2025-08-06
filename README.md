@@ -48,6 +48,7 @@ Files with similar structure to HNSWlib counterparts:
 
 - hnswbin_double_graph.h – Similar to hnswalg.h
 - bin_methods_double.cpp – Similar to sift_1b.cpp
+- ligslib/space_as.h – Similar to space_ip.h/space_l2.h
 
 These files were copied from an older version of HNSWlib to ensure compatibility with our implementation. They may not reflect the current upstream version and are not automatically updated.
 
