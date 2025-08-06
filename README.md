@@ -32,7 +32,9 @@ See **example.py** for a minimal usage example.
 
 ## Relation to HNSWlib
 
-This repository includes modified or preserved versions of several source files originally from the [HNSWlib](https://github.com/nmslib/hnswlib/tree/master) repository. LIGS was initially intended as a modification to HNSW, and thus some files are either identical or closely follow the structure of HNSWlib.
+This repository includes modified or preserved versions of several source files originally from the [HNSWlib](https://github.com/nmslib/hnswlib/tree/master) repository, licensed under the Apache License, Version 2.0. See `LICENSE` for details. 
+
+Files have been modified where noted. LIGS was initially intended as a modification to HNSW, and thus some files are either identical or closely follow the structure of HNSWlib.
 
 Files replicated essentially verbatim for the underlying search logic:
 
