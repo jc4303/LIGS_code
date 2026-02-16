@@ -57,7 +57,7 @@ https://github.com/nmslib/hnswlib
 
 The corresponding paper by Malkov et al. for the HNSWlib database is available as:
 
-Yury A. Malkov, Dmitry A. Yashunin. Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs. IEEE Trans. Pattern Anal. Mach. Intell. 42(4): 824-836 (2020)
+Yury A. Malkov, Dmitry A. Yashunin. Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs. IEEE Trans. Pattern Anal. Mach. Intell. 42(4): 824-836 (2018)
 
 BibTeX:
 ```bash
